@@ -1,5 +1,10 @@
 # 📊 Interactive Data Visualization Dashboard
 
+## 🌐 **LIVE DEMO**
+**🚀 [View Live Application](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)** ← Click here to see it in action!
+
+---
+
 A powerful Python-based data visualization dashboard for analyzing and visualizing data from CSV/Excel files with interactive charts, statistical analysis, and export capabilities.
 
 ## ✨ Features
@@ -162,23 +167,15 @@ Application runs on: `http://localhost:8501`
 
 ## 🌐 Deployment
 
-### Deploy on Streamlit Cloud
+### Live on Streamlit Cloud
+**🔗 [https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)**
+
+### Deploy Your Own
 
 1. Push code to GitHub
 2. Visit: https://streamlit.io/cloud
 3. Connect GitHub repository
 4. Deploy with one click
-
-### Deploy on Heroku
-
-```bash
-# Create Procfile
-echo "web: streamlit run app.py --server.port=$PORT" > Procfile
-
-# Deploy
-heroku create
-git push heroku main
-```
 
 ## 📸 Screenshots
 
@@ -206,3 +203,7 @@ Detailed documentation available in `/docs` folder:
 ## 📄 License
 
 MIT License
+
+---
+
+**Made with ❤️ by Keshav Jadam** | [Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
