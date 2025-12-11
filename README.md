@@ -1,7 +1,12 @@
 # 📊 Interactive Data Visualization Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+
 ## 🌐 **LIVE DEMO**
-**🚀 [View Live Application](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)** ← Click here to see it in action!
+**🚀 [Click Here to View Live Application](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)** 
+
+> Try it now! Upload your CSV/Excel files and create beautiful visualizations instantly.
 
 ---
 
@@ -206,4 +211,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by Keshav Jadam** | [Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+**Made with ❤️ by Keshav Jadam** | [🚀 Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
