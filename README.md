@@ -211,4 +211,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by Keshav Jadam** | [🚀 Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+**Made with ❤️ by Keshav** | [🚀 Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
