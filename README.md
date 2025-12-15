@@ -1,10 +1,10 @@
 # 📊 Interactive Data Visualization Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-visualization-dashboard-cnfb.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://data-visualization-dashboard-cnfb.streamlit.app/)
 
 ## 🌐 **LIVE DEMO**
-**🚀 [Click Here to View Live Application](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)** 
+**🚀 [Click Here to View Live Application](https://data-visualization-dashboard-cnfb.streamlit.app/)** 
 
 > Try it now! Upload your CSV/Excel files and create beautiful visualizations instantly.
 
@@ -173,7 +173,7 @@ Application runs on: `http://localhost:8501`
 ## 🌐 Deployment
 
 ### Live on Streamlit Cloud
-**🔗 [https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)**
+**🔗 [https://data-visualization-dashboard-cnfb.streamlit.app/](https://data-visualization-dashboard-cnfb.streamlit.app/)**
 
 ### Deploy Your Own
 
@@ -209,6 +209,13 @@ Detailed documentation available in `/docs` folder:
 
 MIT License
 
+## 👨‍💻 Author
+
+**Keshav Jadam**
+- GitHub: [@Keshavja29](https://github.com/Keshavja29)
+- LinkedIn: [Keshav Jadam](https://linkedin.com/in/keshav-jadam)
+- Live Demo: [Data Visualization Dashboard](https://data-visualization-dashboard-cnfb.streamlit.app/)
+
 ---
 
-**Made with ❤️ by Keshav** | [🚀 Live Demo](https://data-visualization-dashboard-sygappe92hdpm4kipiupf4c.streamlit.app/)
+**Made with ❤️ by Keshav Jadam** | [🚀 Live Demo](https://data-visualization-dashboard-cnfb.streamlit.app/)
